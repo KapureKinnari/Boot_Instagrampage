@@ -1,0 +1,19 @@
+<style>
+		a{
+			padding: 10px;
+			font-size: 11px;
+		}
+		a:hover{
+			text-decoration: none;
+		}
+		.btn{
+			border-radius: 9px;
+		}
+		#clr{
+			color:#4747ad;
+		}
+		.img-fluid{
+			max-width: 100%;
+			height: auto;
+		}	
+</style>		
